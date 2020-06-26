@@ -99,7 +99,7 @@ pre[class*="language-"] {
 }
 
 .token.keyword {
-	color: #27b8e6;
+	color: var(--scheme-normal, white);
 }
 
 .token.regex,
