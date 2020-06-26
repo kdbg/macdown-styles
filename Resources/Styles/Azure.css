@@ -35,9 +35,9 @@
   --h2-border: #cccccc; }
 
 body {
-  font-family: "Menlo-Regular", "Microsoft YaHei", Verdana, sans-serif, "SimSun";
+  font-family: Helvetica, arial, sans-serif;
   font-size: 14px;
-  line-height: 1.5;
+  line-height: 1.6;
   color: var(--text);
   padding-top: 10px;
   padding-bottom: 10px;

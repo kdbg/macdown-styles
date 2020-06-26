@@ -3,8 +3,8 @@ MacDown是一款很酷的MarkDown编辑器，它的`Fenced code block`很适合�
 
 ## 适用平台 ##
 理论上适用于所有的MacDown版本，但我只在下列环境中验证过。
-> MacOS Sierra 10.12.6  
-> MacDown 0.7.2d49  
+> MacOS Catalina 10.15.4  
+> MacDown 0.7.3  
 
 ## 安装步骤 ##
 
@@ -20,5 +20,6 @@ wget https://raw.github.com/kdbg/macdown-styles/master/Resources/Prism/themes/pr
 ![option](https://raw.github.com/kdbg/macdown-styles/master/image/option.png)
 
 ## 效果展示 ##
+
 ![screenshot](https://raw.github.com/kdbg/macdown-styles/master/image/screenshot.png)
 
