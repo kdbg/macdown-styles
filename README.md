@@ -17,9 +17,9 @@ wget https://raw.github.com/kdbg/macdown-styles/master/Resources/Prism/component
 wget https://raw.github.com/kdbg/macdown-styles/master/Resources/Prism/themes/prism-azure.css -O /Applications/MacDown.app/Contents/Resources/Prism/themes/prism-azure.css
 ```
 然后重启MacDown并启用`Azure`样式  
-![option](https://raw.github.com/kdbg/macdown-styles/master/image/option.png)
+![option](image/option.png)
 
 ## 效果展示 ##
 
-![screenshot](https://raw.github.com/kdbg/macdown-styles/master/image/screenshot.png)
+![screenshot](image/screenshot.png)
 
